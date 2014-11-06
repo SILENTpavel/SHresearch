@@ -1,6 +1,7 @@
 SHresearch
 ==========
 SH demos research project, files specifications and details:
+VIEW THIS AS RAW!
 
 example:
 1-[19.10.98] OPM 16 [SCUS-94278]
@@ -27,4 +28,6 @@ Retail-[26.01.99] Silent Hill [SLPM-86192]
 .CMP - unknown data from the "TEST" folder?
 /XA/**_***** - audio?
 
+All the files were extracted with updated SHExtract tool from Nov 01, 2014 by horror_x (also thank to CharlesM).
 More info in "SHcharaList" file.
+Thanks to whole SH community, that helps with anything.
