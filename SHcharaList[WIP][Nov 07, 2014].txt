@@ -1,0 +1,111 @@
+  _______________________________
+ /______________________________/|
+ |    _____    ______   __      ||
+ |   /____/\  /_____/| /_/|  P  ||
+ |  / ___ \ \ |_   _|/ | ||  A  ||
+ | / /|  \_\/   | ||   | ||  V  ||
+ | | |/____     | ||   | ||  E  ||
+ | \ \____/\    | ||   | ||  L  ||
+ |  \____ \ \   | ||   | ||     ||
+ |  __   \ \/|  | ||   | ||     ||___
+ | /_/\__| |/  _| ||_  | ||___  |/__/|
+ | \ \/__/ /  /_| |_/| | |/__/|     ||
+ |  \_____/   |_____|/ |_____|/ ENT || Silent HIll 1 model list |
+ |__________________________________|/__________________________|
+ (big thanks to Giromancy and others for help with this list)
+ Open this file with Notepad++!
+
+* \CHARA\AR.ILM					Alessa Gillespie (in teen age)									+
+\CHARA\BAR.ILM				Incubator (with aglaophotis on her, enemy boss)						+
+\CHARA\BD2.ILM				(Night Flutter copy?)												+
+\CHARA\BFLU.ILM				Flauros	(that from amusement park)									+
+* \CHARA\BIG.ILM				(?)																+
+* \CHARA\BIRD.ILM				Air Screamer (bird normal, enemy)								+
+\CHARA\BLISA.ILM			Lisa Garland (bloody version)										+
+\CHARA\BOS.ILM				Incubus(Samael, enemy boss)											+
+\CHARA\BOS2.ILM				(Incubator copy?)													?
+* \CHARA\BTFY.ILM				(?)																+
+* \CHARA\CAT.ILM				Cat																+
+* \CHARA\CKN.ILM				(Air Screamer copy?)											+
+* \CHARA\CLD1.ILM				Larval Stalker (little child)									+
+* \CHARA\CLD2.ILM				Demon Child/Invisible Demon Child (beta child, enemy)			+
+* \CHARA\CLD3.ILM				Demon Child/Invisible Demon Child (USA censored child, enemy)	+
+\CHARA\CLD4.ILM				Mumbler																+
+* \CHARA\COC.ILM				Creeper (big cockroach, enemy)									+
+* \CHARA\DARIA.ILM				Dahlia Gillespie (with Flauros and key)							+
+* \CHARA\DEAD.ILM				Punished (from alternate school)								+
+\CHARA\DG2.ILM				Wormhead (dog evil, enemy)											+
+\CHARA\DOB.ILM				Doctor-B (from cut-scene with Dahlia and Kauffman)					+
+\CHARA\DOC.ILM				Doctor-C (from cut-scene with Dahlia and Kauffman)					+
+* \CHARA\DOG.ILM				Groaner (dog normal, enemy)										+
+\CHARA\DUMMY.ILM			placeholder															no tim
+* \CHARA\EI.ILM					(?)																no tim
+* \CHARA\FAT.ILM				Split Head (school enemy boss)									+
+* \CHARA\FRG.ILM				Little worm (from the mall anim. decoration)					+
+* \CHARA\HERO.ILM				Harry Mason	(player)											+
+\CHARA\ICU.ILM				Cybil parasite (from the amusement park)							+
+* \CHARA\JACK.ILM				Romper (Hunter-like from RE, enemy)								+
+* \CHARA\KAU.ILM				Michael Kaufmann (with case)									+
+* \CHARA\LISA.ILM				Lisa Garland (normal version)									+
+\CHARA\LITL.ILM				Night Flutter (bird evil, enemy)									+
+* \CHARA\MAN.ILM				(?)																no tim
+\CHARA\MAR.ILM				Incubator (no aglaophotis on her, enemy boss)						+
+* \CHARA\MKY.ILM				(?)																+
+\CHARA\MSB.ILM				Puppet Cybil Bennett (Possessed version, enemy boss)				+
+* \CHARA\MTH.ILM				Floatstinger (giant mole or butterfly, enemy boss)				+
+* \CHARA\OST.ILM				(?)																+
+* \CHARA\PRS.ILM				Puppet Nurse (enemy)											+
+* \CHARA\PRSD.ILM				Parasitized Doctor (enemy)										+
+\CHARA\ROD.ILM				Bloodsucker (2F of Alternate Hospital, static enemy)				+
+* \CHARA\SIBYL.ILM				Cybil Bennet (normal version)									+
+* \CHARA\SLT.ILM				Hanged Scratcher (sewer spider, enemy)							+
+* \CHARA\SNK.ILM				(?)																+
+* \CHARA\SRL.ILM				Cheryl Mason (in Harry's clothing)								+
+\CHARA\TAR.ILM				Cheryl Mason (in Alessa school clothing)							+
+\CHARA\TDRA.ILM				Dahlia Gillespie													+
+* \CHARA\WRM.ILM				Twinfeeler (worm from mall sand, enemy boss)					+
+
+* mark - means that model exist in earliest OPM16 demo version
++ mark - means texture is exist and already catalogued
+(?) mark - means unknown
+
+
+1ST\
+	font, logo
+	.TIM, .VAB, .BIN
+
+ANIM\
+	animation, cut-scenes
+	.ANM, DMS
+
+BG\
+	city props, models, textures
+	.TIM, .PLM, .IPD
+
+CHARA\
+	characters, models, textures
+	.TIM, ILM
+
+ITEM\
+	items, models, textures
+	.TIM, .TMD
+
+SND\
+	audio
+	.VAB, .KDT
+
+TEST\
+	developer placeholder?
+	.TIM, .ILM, .CMP, .DMS, .IPD
+
+TIM\
+	renders
+	.TIM
+
+VIN\
+	placement files of global maps?
+	.BIN
+
+XA\
+	audio [2]
+	.BIN
